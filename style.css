@@ -1,0 +1,19 @@
+body {
+  background-color: #8359A3;
+  font-family: Arial, sans-serif;
+  color: #000000;
+}
+
+.kartu-profile {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 115px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+   text-align: center;
+
+.kartu-profile img {
+  width: q50px;
+  border-radius: 25%;
+}
